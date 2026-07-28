@@ -5,7 +5,7 @@
 ### What is DNS?
 DNS (Domain Name System) translates domain names like `google.com` into IP addresses so devices can find websites.
 
-### Key Points
+### Key Points:
 - Internet's phonebook
 - Uses Port 53 (TCP/UDP)
 - Converts names to IP addresses

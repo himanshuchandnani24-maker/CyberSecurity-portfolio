@@ -1,6 +1,6 @@
 # Practical 1 - Ping, DNS Lookup & Traceroute
 
-![Practical 1](practical1-networking.png)
+![Practical 1](prac1-networking.png)
 
 
 - `ping -c 4 google.com` checks whether my system can reach the destination by sending ICMP packets.
